@@ -1,0 +1,1 @@
+print("Hata gais")
